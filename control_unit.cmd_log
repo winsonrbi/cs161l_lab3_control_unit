@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/csmajs/wbi002/Lab3_control_unit/control_unit.xst" -ofn "/home/csmajs/wbi002/Lab3_control_unit/control_unit.syr" 
